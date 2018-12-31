@@ -9,6 +9,5 @@ const Header = () => {
 };
 
 //make is available to other parts of the app
- 
 export default Header;
 
